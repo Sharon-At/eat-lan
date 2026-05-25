@@ -1,0 +1,68 @@
+Merged version - 133 recipes, Hebrew + French
+================================================
+
+בסיס: הגרסה עם 133 מתכונים ותרגום צרפתית.
+עודכן: חיבור תמונות נוספות מתוך הצילומים האחרונים + שמירה על כפתורי עברית / Français.
+
+סה״כ מתכונים: 133
+מתכונים עם תמונה מחוברת: 116
+
+תמונות שנוספו/חוברו בסבב המיזוג:
+- recipe080.html | ניוקי | images/recipe_80.jpg
+- recipe084.html | אלפחורס | images/recipe_84.jpg
+- recipe085.html | בורקס תרד | images/recipe_85.jpg
+- recipe086.html | בייגל | images/recipe_86.jpg
+- recipe087.html | בצק לפיצה | images/recipe_87.jpg
+- recipe088.html | בראוניז כשר לפסח | images/recipe_88.jpg
+- recipe090.html | בריוש | images/recipe_90.jpg
+- recipe092.html | חלות של אמוש | images/recipe_92.jpg
+- recipe093.html | טארט בריוש | images/recipe_93.jpg
+- recipe094.html | טארט תותים ונענע | images/recipe_94.jpg
+- recipe095.html | טפנד זיתים | images/recipe_95.jpg
+- recipe096.html | כרובית וברוקולי מוקרמים | images/recipe_96.jpg
+- recipe097.html | כרובית משנוצלת | images/recipe_97.jpg
+- recipe098.html | לחם | images/recipe_98.jpg
+- recipe099.html | לחמניות המבורגר | images/recipe_99.jpg
+- recipe100.html | לחמניות חלב רכות | images/recipe_100.jpg
+- recipe101.html | מאפינס | images/recipe_101.jpg
+- recipe102.html | מאפינס ברוקולי כרובית | images/recipe_102.jpg
+- recipe103.html | מיונז ביתי | images/recipe_103.jpg
+- recipe104.html | ממרח שום | images/recipe_104.jpg
+- recipe105.html | מקרונים | images/recipe_105.jpg
+- recipe106.html | סינמון רולס | images/recipe_106.jpg
+- recipe107.html | סלט עגבניות חריף | images/recipe_107.jpg
+- recipe108.html | סלמון בתנור | images/recipe_108.jpg
+- recipe109.html | סמבוסק | images/recipe_109.jpg
+- recipe110.html | עוגיות בראוניז | images/recipe_110.jpg
+- recipe114.html | עוף מטוגן KFC | images/recipe_114.jpg
+- recipe115.html | עראיס | images/recipe_115.jpg
+- recipe116.html | פאי פקאן | images/recipe_116.jpg
+- recipe117.html | פאי תפוח בדבש | images/recipe_117.jpg
+- recipe118.html | פיצה | images/recipe_118.jpg
+- recipe120.html | פסטה סלק | images/recipe_120.jpg
+- recipe122.html | צ׳וקצ׳וק | images/recipe_122.jpg
+- recipe123.html | צ׳ימיצ׳ורי | images/recipe_123.jpg
+- recipe124.html | קיש | images/recipe_124.jpg
+- recipe126.html | קציצות אורז | images/recipe_126.jpg
+- recipe127.html | קציצות זוקיני | images/recipe_127.jpg
+- recipe131.html | רוטב עגבניות | images/recipe_131.jpg
+- recipe133.html | תפוחי אדמה קריספיים בתנור | images/recipe_133.jpg
+
+עדיין בלי תמונה: 17
+- recipe078.html | כרובית בתנור
+- recipe079.html | פונדנט שוקולד
+- recipe081.html | קונפי שום
+- recipe082.html | כדורי שוקולד
+- recipe083.html | אוזני המן מלוחות
+- recipe089.html | ברד פודינג
+- recipe091.html | גרנולה
+- recipe111.html | עוגת גזר
+- recipe112.html | עוגת לימון
+- recipe113.html | עוגת סושי
+- recipe119.html | פיצה רולס
+- recipe121.html | פסטה עגבניות שרי
+- recipe125.html | קיש רוקפור
+- recipe128.html | קציצות טונה
+- recipe129.html | קרמבו
+- recipe130.html | קרפעלך
+- recipe132.html | ריזוטו דלעת ערמונים

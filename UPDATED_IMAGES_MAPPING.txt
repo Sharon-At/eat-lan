@@ -1,0 +1,86 @@
+# eat.lan image mapping
+
+מספר | שם מתכון | קטגוריה | קובץ תמונה | צילום מקור
+--- | --- | --- | --- | ---
+1 | לחם שום | מאפים | recipe_01.jpg | 9F77CAF8-009D-444C-A9A4-0D08311A9C73.jpeg
+2 | עוגיות שיבולת שועל | קינוחים | recipe_02.jpg | 06D800B2-1C29-497A-B2E5-D2405EA6D8E6.jpeg
+3 | שניצלים | ארוחות | recipe_03.jpg | 6D2CBF30-DA4C-445C-84F3-5C57C4DBC41D.jpeg
+4 | פולנטה | ארוחות | recipe_04.jpg | 388C1CC8-0E25-4372-B271-85B4E458E7D6.jpeg
+5 | בייגל סלמון | מאפים | recipe_05.jpg | 40191F7B-0E4E-4CBB-9EDA-578CD92DBE21.jpeg
+6 | לזניה | ארוחות | recipe_06.jpg | DCD507D3-5CAE-4ADC-A7AD-0DF6A88624E2.jpeg
+7 | קרקרים | מאפים | recipe_07.jpg | 4498B97F-E561-4BA1-BAD6-C57969C7D84B.jpeg
+8 | בורקס ריקוטה ופילו | מאפים | recipe_08.jpg | BA1F114D-F639-40E0-A472-1A0384CB9B3C.jpeg
+9 | פנקייקים | בוקר ובראנץ׳ | recipe_09.jpg | 3F757CB2-276C-46BF-9D10-273E67F27DA0.jpeg
+10 | פאי לימון | קינוחים | recipe_10.jpg | DD1527F8-8CCB-4D52-A9AD-E69F234AA912.jpeg
+11 | מאפינס ברוקולי וכרובית | מאפים | recipe_11.jpg | B8F30898-2C20-405C-A9EC-D98E85A3899F.jpeg
+12 | עוגת מייפל | קינוחים | recipe_12.jpg | 250A4BBC-F009-431D-B0A9-A23E5CFBE135.jpeg
+13 | קראמבל תפוחים | קינוחים | recipe_13.jpg | 2C66285E-7AEB-41F8-9AA1-D5FE83111059.jpeg
+14 | בראוניז | קינוחים | recipe_14.jpg | F352C513-61A7-41DD-AA45-E5F217A86584.jpeg
+15 | דובשניות | קינוחים | recipe_15.jpg | 514BAD7F-173B-4F7F-AC7B-268195166692.jpeg
+16 | סינמון רולס תפוח ודבש | מאפים | recipe_16.jpg | DAFE1E84-B9DC-48A4-9DF3-1C59BBA31838.jpeg
+17 | לביבות תפוחי אדמה | תוספות | recipe_17.jpg | 58079F4C-14BE-46B8-BCAD-4E72E2DC770B.jpeg
+18 | עוגת דבש ותבלינים | קינוחים | recipe_18.jpg | AC7C96E5-A907-4CC1-AE08-5A771CC6E69A.jpeg
+19 | צ׳ורוס | קינוחים | recipe_19.jpg | 68595425-6CB9-4AF1-9246-0B1F613DC15D.jpeg
+20 | סופגניות ריקוטה | קינוחים | recipe_20.jpg | 6ECBA107-9A86-4EAF-9434-09E8521AD29E.jpeg
+21 | מאפינס פיצה | מאפים | recipe_21.jpg | 88C09E6B-84F7-4ADE-846D-D68FC8AF13BA.jpeg
+22 | דונאטס | קינוחים | recipe_22.jpg | B845A9F2-1826-48DF-B729-6E7C2F22E6FB.jpeg
+23 | עוף קריספי | ארוחות | recipe_23.jpg | D499C0DF-AFAD-4020-93A2-49EDE338F4B5.jpeg
+24 | סלמון גרבלקס | בוקר ובראנץ׳ | recipe_24.jpg | 52648C1C-FDA6-49E8-85E0-7E5A56724C1A.jpeg
+25 | ארנצ׳יני | ארוחות | recipe_25.jpg | FAE2724A-1822-4036-B167-676AE7CB8407.jpeg
+26 | פרנץ׳ טוסט | בוקר ובראנץ׳ | recipe_26.jpg | FA7CA3DC-38A7-41ED-8463-28FC1DA988DD.jpeg
+27 | עוגיות אמסטרדם | קינוחים | recipe_27.jpg | 0E7EBE23-D70A-4589-B296-39C47F51A423.jpeg
+28 | בצלים ממולאים | ארוחות | recipe_28.jpg | C1D7121C-C1A8-43A6-9E73-A903158BD063.jpeg
+29 | לביבות תירס | תוספות | recipe_29.jpg | 68B2B54D-7264-4C00-BC05-9988D629F39D.jpeg
+30 | מרק עגבניות | מרקים | recipe_30.jpg | 8A3022F9-7CA9-449A-8F52-A8FA90464190.jpeg
+31 | פוקאצ׳ה | מאפים | recipe_31.jpg | DF6A541A-E48C-4A61-9F2C-BF3BC63DA118.jpeg
+32 | מרק בצל | מרקים | recipe_32.jpg | 31277E55-31FC-4ED8-BEF6-75F31B594B99.jpeg
+33 | באנים | ארוחות | recipe_33.jpg | CB5EEC78-61AF-4177-95DA-7BAB460807C5.jpeg
+34 | מרק אפונה | מרקים | recipe_34.jpg | 63999C05-1E13-4EFA-B02E-ACAD321071FF.jpeg
+35 | מרק כרישה | מרקים | recipe_35.jpg | C19B1733-3A61-46CD-B586-8408E73C4898.jpeg
+36 | מרק כתום | מרקים | recipe_36.jpg | 1CFD3F8A-57F2-4F8C-948B-6DA5AADE5C65.jpeg
+37 | סופגניות | קינוחים | recipe_37.jpg | 87A1FA41-59AB-46FC-88F1-DF6D7E645782.jpeg
+38 | בורקס | מאפים | recipe_38.jpg | 04891455-F6D9-4221-9973-9D3ED811E608.jpeg
+39 | חומוס | ממרחים | recipe_39.jpg | 4197B9E9-46CB-4573-9547-17D1360FD4E4.jpeg
+40 | פיתות | מאפים | recipe_40.jpg | 1823CD93-7B80-49D6-A482-9DFA1EFE6236.jpeg
+41 | פלאפל | ארוחות | recipe_41.jpg | 1DC49F8C-D467-4768-8FD7-F4FC7F270223.jpeg
+42 | טארט לימון | קינוחים | recipe_42.jpg | 495B999A-28AA-4CAD-85B4-15B9BFFE467D.jpeg
+43 | קרואסונים | מאפים | recipe_43.jpg | C608CEEF-48B7-4F8A-A7E1-6A661A7E0A87.jpeg
+44 | בראוניז | קינוחים | recipe_44.jpg | 48F5746B-63C6-4259-BFE3-343A9219D310.jpeg
+45 | מרק עוף וקניידלעך | מרקים | recipe_45.jpg | 72DF09FC-0A1E-4596-B1DF-84657B22F091.jpeg
+46 | בצלים ממולאים | ארוחות | recipe_46.jpg | CA6C0174-313F-44A1-8EAD-767627365E07.jpeg
+47 | טארט תותים | קינוחים | recipe_47.jpg | 9623C6D3-442B-4440-90FD-71718368A81C.jpeg
+48 | לחמניות סנדוויץ׳ | מאפים | recipe_48.jpg | FF01A9B6-C9F8-477E-8CF0-213ABE8BFB50.jpeg
+49 | פאי תפוחים | קינוחים | recipe_49.jpg | 228404FA-0484-41F4-80F5-87147716621C.jpeg
+50 | טארט טאטן בצל | מאפים | recipe_50.jpg | 46234538-3386-4073-8BD1-A875498FCC4E.jpeg
+51 | ניו יורק צ׳יזקייק | קינוחים | recipe_51.jpg | F2BA5A37-B11F-40B9-B05A-F1F5C4B8A91D.jpeg
+52 | לחמניות חלב | מאפים | recipe_52.jpg | 3166E3D4-AB7C-4D5D-A202-510DA3F6286D.jpeg
+53 | קלפוטי משמש | קינוחים | recipe_53.jpg | B0E16A1C-E92D-4FA4-8CC5-7226B82840DA.jpeg
+54 | עוגת גבינה ביסקוויטים | קינוחים | recipe_54.jpg | F56B06F4-C421-4853-B9C7-7F647D6236E1.jpeg
+55 | קיש שום | מאפים | recipe_55.jpg | AF3A1112-A103-4184-82EE-CAD81D87928E.jpeg
+56 | לביבות כרישה וגבינות | תוספות | recipe_56.jpg | A458E186-DFF6-4E68-9E69-294BFD172648.jpeg
+57 | קונכיות פסטה ממולאות | ארוחות | recipe_57.jpg | 5D252D22-A744-48D0-83D0-27961197521C.jpeg
+58 | מאפה פילו ותרד | מאפים | recipe_58.jpg | BD4BFD9E-6247-4848-A338-773E6C7488CD.jpeg
+59 | עוגת גבינה | קינוחים | recipe_59.jpg | 064B8F31-D7C2-44D9-B387-4B5EC97BE568.jpeg
+60 | צלעות תירס | תוספות | recipe_60.jpg | 9B56C92D-7C23-448D-A52C-EE3E605E6148.jpeg
+61 | קובנה | מאפים | recipe_61.jpg | 7089F5FA-A5C4-45CF-9BA9-3A7C1733F71E.jpeg
+62 | קרם ברולה | קינוחים | recipe_62.jpg | DDD5CA43-5927-4CE6-BB79-8549690B9227.jpeg
+63 | עוגיות פרמזן מלוחות | מאפים | recipe_63.jpg | A20EAACC-DC2F-46F0-8DF4-6F16E18D1486.jpeg
+64 | עוגת שיש בננות | קינוחים | recipe_64.jpg | CB514A74-4D6A-44FF-ADC7-EA657A60016C.jpeg
+65 | פאי תפוחים | קינוחים | recipe_65.jpg | 9C7A49FE-44BF-41F0-A4A0-752D803AA155.jpeg
+66 | לחמניות סנדוויץ׳ | מאפים | recipe_66.jpg | B919B611-F290-4240-807F-17AED67314AC.jpeg
+67 | עוגיות שוקולד צ׳יפס | קינוחים | recipe_67.jpg | 3D2DFBF2-F6C7-43E2-B85C-9B261E29B871.jpeg
+68 | גוז׳ר | מאפים | recipe_68.jpg | F46C83B5-E1CE-478E-91D4-AFDBDDC7D80B.jpeg
+69 | מרשמלו | קינוחים | recipe_69.jpg | F3A98151-4A3C-43F5-A0BE-C0C44ECC2D6B.jpeg
+70 | גראטן תפוחי אדמה | תוספות | recipe_70.jpg | 48059FD8-1CC1-44B4-A585-A3C2167326E4.jpeg
+71 | עוגת פסיפלורה | קינוחים | recipe_71.jpg | 5331726D-2913-4415-8486-612E7A59761B.jpeg
+72 | פסטה פסטו | ארוחות | recipe_72.jpg | DC951182-367E-4289-9157-2E4911726CBF.jpeg
+73 | סלט נקטרינות | סלטים | recipe_73.jpg | F8155119-4C23-4CA1-BD2A-3D645C82B2B9.jpeg
+74 | טארט טאטן כרישה | מאפים | recipe_74.jpg | 9F68FB14-E420-4888-8EA0-4D13004A0CAF.jpeg
+75 | קעריות לזניה | ארוחות | recipe_75.jpg | EF7D76BC-01C3-4085-A238-8AF4A8047D56.jpeg
+76 | רוטב בשמל | בסיסים ורטבים | recipe_76.jpg | F993AD3A-09C9-49E0-83D7-71785341E894.jpeg
+77 | מצה ברייט | בוקר ובראנץ׳ | recipe_77.jpg | 57546C25-7730-455E-9083-A7F86EC1D262.jpeg
+78 | כרובית בתנור | כללי |  | 
+79 | פונדנט שוקולד | כללי |  | 
+80 | ניוקי | כללי |  | 
+81 | קונפי שום | כללי |  | 
+82 | כדורי שוקולד | כללי |  | 

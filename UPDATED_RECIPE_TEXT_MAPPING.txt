@@ -1,0 +1,136 @@
+Total cards: 133
+Cards with full recipe text: 133
+
+recipe001.html | לחם שום | מאפים | TEXT | images/recipe_01.jpg
+recipe002.html | עוגיות שיבולת שועל | קינוחים | TEXT | images/recipe_02.jpg
+recipe003.html | שניצלים | ארוחות | TEXT | images/recipe_03.jpg
+recipe004.html | פולנטה | ארוחות | TEXT | images/recipe_04.jpg
+recipe005.html | בייגל סלמון | מאפים | TEXT | images/recipe_05.jpg
+recipe006.html | לזניה | ארוחות | TEXT | images/recipe_06.jpg
+recipe007.html | קרקרים | מאפים | TEXT | images/recipe_07.jpg
+recipe008.html | בורקס ריקוטה ופילו | מאפים | TEXT | images/recipe_08.jpg
+recipe009.html | פנקייקים | בוקר ובראנץ׳ | TEXT | images/recipe_09.jpg
+recipe010.html | פאי לימון | קינוחים | TEXT | images/recipe_10.jpg
+recipe011.html | מאפינס ברוקולי וכרובית | מאפים | TEXT | images/recipe_11.jpg
+recipe012.html | עוגת מייפל | קינוחים | TEXT | images/recipe_12.jpg
+recipe013.html | קראמבל תפוחים | קינוחים | TEXT | images/recipe_13.jpg
+recipe014.html | בראוניז | קינוחים | TEXT | images/recipe_14.jpg
+recipe015.html | דובשניות | קינוחים | TEXT | images/recipe_15.jpg
+recipe016.html | סינמון רולס תפוח ודבש | מאפים | TEXT | images/recipe_16.jpg
+recipe017.html | לביבות תפוחי אדמה | תוספות | TEXT | images/recipe_17.jpg
+recipe018.html | עוגת דבש ותבלינים | קינוחים | TEXT | images/recipe_18.jpg
+recipe019.html | צ׳ורוס | קינוחים | TEXT | images/recipe_19.jpg
+recipe020.html | סופגניות ריקוטה | קינוחים | TEXT | images/recipe_20.jpg
+recipe021.html | מאפינס פיצה | מאפים | TEXT | images/recipe_21.jpg
+recipe022.html | דונאטס | קינוחים | TEXT | images/recipe_22.jpg
+recipe023.html | עוף קריספי | ארוחות | TEXT | images/recipe_23.jpg
+recipe024.html | סלמון גרבלקס | בוקר ובראנץ׳ | TEXT | images/recipe_24.jpg
+recipe025.html | ארנצ׳יני | ארוחות | TEXT | images/recipe_25.jpg
+recipe026.html | פרנץ׳ טוסט | בוקר ובראנץ׳ | TEXT | images/recipe_26.jpg
+recipe027.html | עוגיות אמסטרדם | קינוחים | TEXT | images/recipe_27.jpg
+recipe028.html | בצלים ממולאים | ארוחות | TEXT | images/recipe_28.jpg
+recipe029.html | לביבות תירס | תוספות | TEXT | images/recipe_29.jpg
+recipe030.html | מרק עגבניות | מרקים | TEXT | images/recipe_30.jpg
+recipe031.html | פוקאצ׳ה | מאפים | TEXT | images/recipe_31.jpg
+recipe032.html | מרק בצל | מרקים | TEXT | images/recipe_32.jpg
+recipe033.html | באנים | ארוחות | TEXT | images/recipe_33.jpg
+recipe034.html | מרק אפונה | מרקים | TEXT | images/recipe_34.jpg
+recipe035.html | מרק כרישה | מרקים | TEXT | images/recipe_35.jpg
+recipe036.html | מרק כתום | מרקים | TEXT | images/recipe_36.jpg
+recipe037.html | סופגניות | קינוחים | TEXT | images/recipe_37.jpg
+recipe038.html | בורקס | מאפים | TEXT | images/recipe_38.jpg
+recipe039.html | חומוס | ממרחים | TEXT | images/recipe_39.jpg
+recipe040.html | פיתות | מאפים | TEXT | images/recipe_40.jpg
+recipe041.html | פלאפל | ארוחות | TEXT | images/recipe_41.jpg
+recipe042.html | טארט לימון | קינוחים | TEXT | images/recipe_42.jpg
+recipe043.html | קרואסונים | מאפים | TEXT | images/recipe_43.jpg
+recipe044.html | בראוניז | קינוחים | TEXT | images/recipe_44.jpg
+recipe045.html | מרק עוף וקניידלעך | מרקים | TEXT | images/recipe_45.jpg
+recipe046.html | בצלים ממולאים | ארוחות | TEXT | images/recipe_46.jpg
+recipe047.html | טארט תותים | קינוחים | TEXT | images/recipe_47.jpg
+recipe048.html | לחמניות סנדוויץ׳ | מאפים | TEXT | images/recipe_48.jpg
+recipe049.html | פאי תפוחים | קינוחים | TEXT | images/recipe_49.jpg
+recipe050.html | טארט טאטן בצל | מאפים | TEXT | images/recipe_50.jpg
+recipe051.html | ניו יורק צ׳יזקייק | קינוחים | TEXT | images/recipe_51.jpg
+recipe052.html | לחמניות חלב | מאפים | TEXT | images/recipe_52.jpg
+recipe053.html | קלפוטי משמש | קינוחים | TEXT | images/recipe_53.jpg
+recipe054.html | עוגת גבינה ביסקוויטים | קינוחים | TEXT | images/recipe_54.jpg
+recipe055.html | קיש שום | מאפים | TEXT | images/recipe_55.jpg
+recipe056.html | לביבות כרישה וגבינות | תוספות | TEXT | images/recipe_56.jpg
+recipe057.html | קונכיות פסטה ממולאות | ארוחות | TEXT | images/recipe_57.jpg
+recipe058.html | מאפה פילו ותרד | מאפים | TEXT | images/recipe_58.jpg
+recipe059.html | עוגת גבינה | קינוחים | TEXT | images/recipe_59.jpg
+recipe060.html | צלעות תירס | תוספות | TEXT | images/recipe_60.jpg
+recipe061.html | קובנה | מאפים | TEXT | images/recipe_61.jpg
+recipe062.html | קרם ברולה | קינוחים | TEXT | images/recipe_62.jpg
+recipe063.html | עוגיות פרמזן מלוחות | מאפים | TEXT | images/recipe_63.jpg
+recipe064.html | עוגת שיש בננות | קינוחים | TEXT | images/recipe_64.jpg
+recipe065.html | פאי תפוחים | קינוחים | TEXT | images/recipe_65.jpg
+recipe066.html | לחמניות סנדוויץ׳ | מאפים | TEXT | images/recipe_66.jpg
+recipe067.html | עוגיות שוקולד צ׳יפס | קינוחים | TEXT | images/recipe_67.jpg
+recipe068.html | גוז׳ר | מאפים | TEXT | images/recipe_68.jpg
+recipe069.html | מרשמלו | קינוחים | TEXT | images/recipe_69.jpg
+recipe070.html | גראטן תפוחי אדמה | תוספות | TEXT | images/recipe_70.jpg
+recipe071.html | עוגת פסיפלורה | קינוחים | TEXT | images/recipe_71.jpg
+recipe072.html | פסטה פסטו | ארוחות | TEXT | images/recipe_72.jpg
+recipe073.html | סלט נקטרינות | סלטים | TEXT | images/recipe_73.jpg
+recipe074.html | טארט טאטן כרישה | מאפים | TEXT | images/recipe_74.jpg
+recipe075.html | קעריות לזניה | ארוחות | TEXT | images/recipe_75.jpg
+recipe076.html | רוטב בשמל | בסיסים ורטבים | TEXT | images/recipe_76.jpg
+recipe077.html | מצה ברייט | בוקר ובראנץ׳ | TEXT | images/recipe_77.jpg
+recipe078.html | כרובית בתנור | תוספות | TEXT | 
+recipe079.html | פונדנט שוקולד | כללי | TEXT | 
+recipe080.html | ניוקי | כללי | TEXT | images/recipe_80.jpg
+recipe081.html | קונפי שום | ממרחים ורטבים | TEXT | 
+recipe082.html | כדורי שוקולד | כללי | TEXT | 
+recipe083.html | אוזני המן מלוחות | מאפים ולחמים | TEXT | 
+recipe084.html | אלפחורס | קינוחים | TEXT | images/recipe_84.jpg
+recipe085.html | בורקס תרד | מאפים ולחמים | TEXT | images/recipe_85.jpg
+recipe086.html | בייגל | מאפים ולחמים | TEXT | images/recipe_86.jpg
+recipe087.html | בצק לפיצה | כללי | TEXT | images/recipe_87.jpg
+recipe088.html | בראוניז כשר לפסח | קינוחים | TEXT | images/recipe_88.jpg
+recipe089.html | ברד פודינג | כללי | TEXT | 
+recipe090.html | בריוש | מאפים ולחמים | TEXT | images/recipe_90.jpg
+recipe091.html | גרנולה | כללי | TEXT | 
+recipe092.html | חלות של אמוש | כללי | TEXT | images/recipe_92.jpg
+recipe093.html | טארט בריוש | קינוחים | TEXT | images/recipe_93.jpg
+recipe094.html | טארט תותים ונענע | קינוחים | TEXT | images/recipe_94.jpg
+recipe095.html | טפנד זיתים | ממרחים ורטבים | TEXT | images/recipe_95.jpg
+recipe096.html | כרובית וברוקולי מוקרמים | תוספות | TEXT | images/recipe_96.jpg
+recipe097.html | כרובית משנוצלת | תוספות | TEXT | images/recipe_97.jpg
+recipe098.html | לחם | מאפים ולחמים | TEXT | images/recipe_98.jpg
+recipe099.html | לחמניות המבורגר | מאפים ולחמים | TEXT | images/recipe_99.jpg
+recipe100.html | לחמניות חלב רכות | מאפים ולחמים | TEXT | images/recipe_100.jpg
+recipe101.html | מאפינס | כללי | TEXT | images/recipe_101.jpg
+recipe102.html | מאפינס ברוקולי כרובית | תוספות | TEXT | images/recipe_102.jpg
+recipe103.html | מיונז ביתי | ממרחים ורטבים | TEXT | images/recipe_103.jpg
+recipe104.html | ממרח שום | ממרחים ורטבים | TEXT | images/recipe_104.jpg
+recipe105.html | מקרונים | קינוחים | TEXT | images/recipe_105.jpg
+recipe106.html | סינמון רולס | כללי | TEXT | images/recipe_106.jpg
+recipe107.html | סלט עגבניות חריף | סלטים | TEXT | images/recipe_107.jpg
+recipe108.html | סלמון בתנור | ארוחות | TEXT | images/recipe_108.jpg
+recipe109.html | סמבוסק | מאפים ולחמים | TEXT | images/recipe_109.jpg
+recipe110.html | עוגיות בראוניז | קינוחים | TEXT | images/recipe_110.jpg
+recipe111.html | עוגת גזר | קינוחים | TEXT | 
+recipe112.html | עוגת לימון | קינוחים | TEXT | 
+recipe113.html | עוגת סושי | קינוחים | TEXT | 
+recipe114.html | עוף מטוגן KFC | ארוחות | TEXT | images/recipe_114.jpg
+recipe115.html | עראיס | ארוחות | TEXT | images/recipe_115.jpg
+recipe116.html | פאי פקאן | קינוחים | TEXT | images/recipe_116.jpg
+recipe117.html | פאי תפוח בדבש | קינוחים | TEXT | images/recipe_117.jpg
+recipe118.html | פיצה | כללי | TEXT | images/recipe_118.jpg
+recipe119.html | פיצה רולס | מאפים ולחמים | TEXT | 
+recipe120.html | פסטה סלק | ארוחות | TEXT | images/recipe_120.jpg
+recipe121.html | פסטה עגבניות שרי | ארוחות | TEXT | 
+recipe122.html | צ׳וקצ׳וק | ממרחים ורטבים | TEXT | images/recipe_122.jpg
+recipe123.html | צ׳ימיצ׳ורי | ממרחים ורטבים | TEXT | images/recipe_123.jpg
+recipe124.html | קיש | כללי | TEXT | images/recipe_124.jpg
+recipe125.html | קיש רוקפור | כללי | TEXT | 
+recipe126.html | קציצות אורז | ארוחות | TEXT | images/recipe_126.jpg
+recipe127.html | קציצות זוקיני | ארוחות | TEXT | images/recipe_127.jpg
+recipe128.html | קציצות טונה | ארוחות | TEXT | 
+recipe129.html | קרמבו | קינוחים | TEXT | 
+recipe130.html | קרפעלך | ארוחות | TEXT | 
+recipe131.html | רוטב עגבניות | ממרחים ורטבים | TEXT | images/recipe_131.jpg
+recipe132.html | ריזוטו דלעת ערמונים | ארוחות | TEXT | 
+recipe133.html | תפוחי אדמה קריספיים בתנור | תוספות | TEXT | images/recipe_133.jpg

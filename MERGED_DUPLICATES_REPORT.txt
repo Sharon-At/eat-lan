@@ -1,0 +1,15 @@
+Merged duplicate recipes in eat.lan site
+Original recipe count: 133
+Final recipe count after merging exact duplicate content: 122
+
+Merged groups (kept first page, removed the others):
+- Kept recipe005.html (בייגל); merged: recipe086.html (בייגל)
+- Kept recipe010.html (פאי לימון); merged: recipe042.html (טארט לימון)
+- Kept recipe011.html (מאפינס ברוקולי וכרובית); merged: recipe102.html (מאפינס ברוקולי כרובית)
+- Kept recipe014.html (בראוניז); merged: recipe044.html (בראוניז)
+- Kept recipe023.html (עוף קריספי); merged: recipe114.html (עוף מטוגן KFC)
+- Kept recipe028.html (בצלים ממולאים); merged: recipe046.html (בצלים ממולאים)
+- Kept recipe047.html (טארט תותים); merged: recipe094.html (טארט תותים ונענע)
+- Kept recipe048.html (לחמניות סנדוויץ׳); merged: recipe066.html (לחמניות סנדוויץ׳)
+- Kept recipe049.html (פאי תפוחים); merged: recipe065.html (פאי תפוחים), recipe117.html (פאי תפוח בדבש)
+- Kept recipe052.html (לחמניות חלב); merged: recipe100.html (לחמניות חלב רכות)
